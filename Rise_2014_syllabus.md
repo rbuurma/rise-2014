@@ -15,53 +15,65 @@ In this course we will examine the development of the novel from its origin in a
 ### Week I: *Robinson Crusoe* (1719)
 September 1
 + Welcome and Introduction
+
 September 3
 + Robinson Crusoe, 1-56
+
 September 5
 + Robinson Crusoe, continued
 
 ### Week II: *Robinson Crusoe*
 September 8
 + Robinson Crusoe, 57-241
+
 September 10
 + Robinson Crusoe, continued
 + selection from Watt, The Rise of the Novel
+
 September 12
 + NO CLASS (read *Pamela*)
 
 ### Week III: *Pamela* (1740)
 September 15
 + Pamela, 11-238 [check numbers]
+
 September 17
 + chapter summary (pdf)
 + Pamela 476-503
 + short paper assigned
+
 September 19
 + selection from Armstrong, *Desire and Domestic Fiction*
 
 ### Week IV: *Pamela* and *Shamela* (1741)
 September 22
 + *Shamela*, all
+
 September 24
 + *Shamela*, continued
 + research paper assigned
+
 September 26
 + McKeon, "Generic Transformation and Social Change"
 
 ### Week V: *Evelina* (1778)
 October 29
 + Evelina, 1-200
+
 October 1
 + Evelina, 200-300; descriptive bibliography assignment assigned
+
 October 3
 + selection from Barthes, *The Preparation of the Novel*
 
 ### Week VI: *Evelina*
 October 8
 + *Evelina*, 300-450
+
 October 10
 + *Evelina*, continued
 + explore [Asylum for Orphan Girls](http://tinyurl.com/9axzvrq)
+
 October 12
 + selection from Habermas, *The Structural Transformation of the Public Sphere*
 + short paper due by midnight October 12
@@ -72,8 +84,10 @@ Week VIII: *Northanger Abbey* (1818)
 October 20
 + *Northanger Abbey*, 36-240 (all)
 + selections from NA appendix
+
 October 22
 + *Northanger Abbey*, continued
+
 October 24
 + Barthes, "The Reality Effect"
 
@@ -81,17 +95,21 @@ October 24
 October 27
 + selections from *The Pickwick Papers*
 + *Cranford*, 1-179 (all)
+
 October 29
 + *Pickwick* and *Cranford*, continued
+
 October 31
 + selection from Anderson, *Imagined Communities*
 
 ### Week X: *The Moonstone* (1868)
 November 3
 + *The Moonstone*, 3-271
+
 November 5
 + *The Moonstone*, continued
 + final paper assigned
+
 November 7
 + selection from Foucault, *Discipline and Punish*
 + selection from Miller, *The Novel and the Police* (Introduction and ch 2)
@@ -99,16 +117,20 @@ November 7
 ### Week XI: *The Moonstone*
 November 10
 + *The Moonstone*, 272-472
+
 November 12
 + *The Moonstone*, continued
+
 November 14
 + Said, from *Orientalism*
 
 ### Week XII: Daisy Miller (1878)
 November 17
 + Daisy Miller, all
+
 November 19
 + James, "The Figure in the Carpet", "The Art of Fiction"
+
 November 21
 + Jameson, “The Realist Floor-plan”
 
@@ -117,8 +139,10 @@ Research project due by midnight November 30
 ### Week XIII: Ulysses (1922)
 November 24
 + Ulysses, "Nausicaa" chapter
+
 November 28
 + no class – Thanksgiving break (begin reading A House for Mr. Biswas)
+
 November 30
 + no class – Thanksgiving break
 
@@ -128,8 +152,10 @@ November 30
 December 1
 + A House for Mr. Biswas, 5-292
 Final paper meetings with me this week
+
 December 3
 + Homi Bhabha, “The World and the Home”
+
 December 5
 + in-class criticism exam
 
