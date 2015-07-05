@@ -15,10 +15,8 @@ In this course we will examine the development of the novel from its origin in a
 ### Week I: *Robinson Crusoe* (1719)
 September 1
 + Welcome and Introduction
-
 September 3
 + Robinson Crusoe, 1-56
-
 September 5
 + Robinson Crusoe, continued
 
